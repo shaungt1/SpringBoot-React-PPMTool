@@ -1,0 +1,3 @@
+Set up maven and do clean install
+
+Install all dependencies
